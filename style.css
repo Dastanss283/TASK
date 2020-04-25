@@ -1,0 +1,9 @@
+img {
+    width: 100%;
+}
+.img {
+    width: 30%;
+}
+.country-info {
+    display: flex;
+}
